@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="default_value">0</string>
+    <string name="increment">Click me!</string>
+</resources>
